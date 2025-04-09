@@ -1,0 +1,27 @@
+{
+  "name": "BabysFirstModpackREPO",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A modpack of the best character, item, skin, and QOL mods - so you don't have to do it yourself (REPO edition)",
+  "dependencies": [
+	"RESET-MoreHeadPlus-1.2.1",
+	"BepInEx-BepInExPack-5.4.2100",
+	"nickklmao-MenuLib-2.3.0",
+	"YMC_MHZ-MoreHead-1.3.5",
+	"GalaxyMods-MoreShopItems-1.3.3",
+	"Zehs-REPOLib-2.0.1",
+	"nickklmao-REPOConfig-1.1.8",
+	"mattymatty-AsyncLoggers-2.1.4",
+	"Rebateman-LateJoin-0.1.2",
+	"EvilCheetah-TeamUpgrades-1.1.4",
+	"x753_REPO-CustomColors-1.1.1",
+	"Snowlance-NoDamageInShop-1.0.1",
+	"TitanVortex-BigNuke-1.0.1",
+	"Flopper-ImprovedStamina-1.2.0",
+	"zombieseatflesh7-ColoredNametags-1.0.0",
+	"ColtG5-LegoGnomes-1.0.2",
+	"Lazarus-BetterTruckHeals-1.2.0",
+	"Lazarus-NoGunSpread-1.0.2",
+	"Hattorius-PostLevelSummary-1.1.1"
+	]
+}
